@@ -1,0 +1,2 @@
+include ':app',':photograph',':photograph2', ':demo1';
+
